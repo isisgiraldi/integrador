@@ -1,0 +1,73 @@
+@media (max-width: 1200px) {
+  .card {
+    background-color: var(--secondary);
+  }
+  .contenido {
+    color: #4629e7;
+  }
+}
+@media (max-width: 992px) {
+  body {
+    background-image: url(access/home-1.jpg);
+  }
+  #hero-card {
+    flex-direction: inherit;
+    justify-content: center;
+  }
+  .card {
+    background-color: var(--secondary);
+    width: 80%;
+    height: 400px;
+  }
+  .contenido {
+    color: #4629e7;
+  }
+}
+@media (max-width: 768px) {
+  body {
+    background-image: url(access/home-1.jpg);
+  }
+  #hero-card {
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+  }
+  .card {
+    background-color: var(--background);
+  }
+  .contenido {
+    color: #e7ecb7;
+  }
+}
+@media (max-width: 576px) {
+  body {
+    background-image: url(access/fondocopado.jpeg);
+  }
+  #hero {
+    background-position: center;
+    background-size: 900px;
+  }
+  .hero-info {
+    position: absolute;
+    top: 150px;
+    left: 0;
+  }
+  .hero-parrafo {
+    position: relative;
+    top: 80px;
+    left: 0;
+    color: #e7ecb7;
+  }
+  .boton {
+    flex-direction: column;
+  }
+  #hero-card {
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+  }
+  .contacto-info-lista {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
