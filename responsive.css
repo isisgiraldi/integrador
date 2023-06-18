@@ -52,6 +52,9 @@
     color: #e7ecb7;
     font-size: 15px;
   }
+   .text {
+    padding: 3%;
+  }
   #hero-card {
     flex-direction: column;
     justify-content: center;
