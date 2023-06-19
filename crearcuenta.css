@@ -87,7 +87,7 @@ body {
     max-width: 890px;
   }
   footer{
-    padding: 100px;
+    padding: 100px 100%;
 }
 @media (max-width: 576px) {
   .registro {
