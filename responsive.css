@@ -102,7 +102,7 @@
     text-align: center;
   }
    .info-lista i{
-    text-align: center;
+    display: flex;
 }
 }
 
