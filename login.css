@@ -82,8 +82,8 @@ body {
 }
 @media (max-width: 576px) {
   .formulario {
-    width: 550px;
-    height: 640px;
+    width: 350px;
+    height: 340px;
     padding: 3%;
   }
 }
