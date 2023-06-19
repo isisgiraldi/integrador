@@ -75,3 +75,14 @@ body {
   color: #f3f4f6;
   margin-top: 40px;
 }
+@media (max-width: 992px) {
+  body {
+    max-width: 890px;
+  }
+}
+@media (max-width: 576px) {
+  .formulario {
+    width: 100%;
+    height: 600px;
+  }
+}
