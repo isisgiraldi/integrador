@@ -89,6 +89,6 @@ body {
 }
 @media (max-width: 576px) {
   .registro {
-    width: 350px;
+    width: 300px;
   }
 }
