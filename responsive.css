@@ -101,5 +101,8 @@
     .info-lista {
     text-align: center;
   }
+   .info-lista a i{
+    text-align: center;
+}
 }
 
