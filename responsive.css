@@ -36,6 +36,9 @@
     .contenido a{
     color: #2998e7;
   }
+   #contacto{
+      max-width: 850px;
+  }
   .pie-list1 {
     display: flex;
     align-items: center;
@@ -84,9 +87,6 @@
     flex-direction: column;
     justify-content: center;
     gap: 50px;
-  }
-  #contacto{
-      max-width: 850px;
   }
   .contacto-info-lista {
     flex-direction: column;
