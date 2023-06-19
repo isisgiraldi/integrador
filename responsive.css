@@ -85,6 +85,9 @@
     justify-content: center;
     gap: 50px;
   }
+  #contacto{
+      max-width: 850px;
+  }
   .contacto-info-lista {
     flex-direction: column;
     justify-content: center;
