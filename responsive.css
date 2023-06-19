@@ -33,6 +33,9 @@
   .contenido {
     color: #d1e2f3;
   }
+    .contenido a{
+    color: #2998e7;
+  }
   .pie-list1 {
     display: flex;
     align-items: center;
